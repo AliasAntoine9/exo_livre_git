@@ -2,3 +2,9 @@ Ma liste à faire
 Changement d'heure
 
 Grande explosion
+
+Enfin commencer à implémenter le code java
+
+Public static void main() {
+
+}
