@@ -7,4 +7,10 @@ Enfin commencer à implémenter le code java
 
 Public static void main() {
 
+	System.out.println("Le grand classqie de l'affichage");
+
 }
+
+import java.lang;
+
+graph graphique1 = new graph;
