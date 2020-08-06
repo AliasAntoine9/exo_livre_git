@@ -13,3 +13,7 @@ Public static void main() {
 import java.lang;
 
 graph graphique1 = new graph;
+
+
+J'aime les amendes: git commit --amend
+To modify, To edit, To amend / Modifier
