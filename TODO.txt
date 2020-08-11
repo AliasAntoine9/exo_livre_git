@@ -1,6 +1,5 @@
 Ma liste à faire
 
-Grande explosion
 
 Enfin commencer à implémenter le code java
 
@@ -9,11 +8,3 @@ Public static void main() {
 	System.out.println("Le grand classqie de l'affichage");
 
 }
-
-import java.lang;
-
-graph graphique1 = new graph;
-
-
-J'aime les amendes: git commit --amend
-To modify, To edit, To amend / Modifier
