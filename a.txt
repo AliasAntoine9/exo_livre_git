@@ -2,4 +2,3 @@ Petite modif de a
 
 Code Python + Java
 
-Git merge fast-forward
