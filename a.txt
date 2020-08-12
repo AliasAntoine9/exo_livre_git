@@ -2,5 +2,6 @@ Petite modif de a
 
 # Master
 
-Je veux voit la diff!
-git
+Je veux voir la diff!
+
+PyCharm a l'air d'être costaud sur la diff de fichier
