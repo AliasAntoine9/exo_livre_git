@@ -46,3 +46,7 @@ for i in range(0, end):  # For each girl
     for j in range(0, end2):  # For each photos
         dict_parsed[i]["photos"].append(data_dict["body"][0]["client_encounters"]["results"][i]["user"]["albums"][0]["photos"][j]["large_url"])
 
+# Exportation of data
+with codecs.open("D:/Sauvegardes_Programmes/GitHub_Sauvegardes/Bumble/src/main/resources/other/json_of_girls.json", "w", encoding="utf8") as json_file:
+    json.dump(dict_parsed, json_file)
+
