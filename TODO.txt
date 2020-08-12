@@ -42,3 +42,7 @@ for i in range(0, end):  # For each girl
         "photos"        : [],
         "log_date"      : log_date
     }
+
+    for j in range(0, end2):  # For each photos
+        dict_parsed[i]["photos"].append(data_dict["body"][0]["client_encounters"]["results"][i]["user"]["albums"][0]["photos"][j]["large_url"])
+
