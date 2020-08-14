@@ -1,12 +1,15 @@
 Ma liste à faire
 
+Pull
+Merge
+Conflicts
+Mergetool
 
-Enfin commencer à implémenter le code java
 
-Public static void main() {
 
-	System.out.println("Le grand classqie de l'affichage");
 
-}
 
 Apprendre le fetch_head  develop
+
+
+Origin/master
