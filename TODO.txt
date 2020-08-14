@@ -5,3 +5,11 @@ Merge
 Conflicts
 Mergetool
 
+
+
+
+
+Apprendre le fetch_head  develop
+
+
+Origin/master
