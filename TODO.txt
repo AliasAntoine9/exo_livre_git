@@ -5,3 +5,5 @@ Merge
 Conflicts
 Mergetool
 
+
+fetch_head cible le local ou le repo?
