@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>TODO list</title>
-<style>
+<style of Windsurf>
 h1 {
 text-align: left;
 }
@@ -11,7 +11,7 @@ h3 {
 text-transform: capitalize;
 }
 li {
-overflow: hidden;
+overflow: 
 padding: 22px 0;
 border-bottom: 2px solid #eee;
 }
@@ -21,12 +21,14 @@ border-bottom: 2px solid #eee;
 <h1>TODO list</h1>
 <h3>Todo</h3>
 <ul>
-<li>Buy a hat for the bat</li>
-<li>Clear the fogs for the frogs</li>
-<li>Bring a box to the fox</li>
+
+<li>Où c'est que j'ai mis mon flingue?!</li>
+<li>Tri Martolod</li>
+<li>Bring me a Faguo!!!</li>
+
 </ul>
 <h3>Done</h3>
-<ul>
+<ul et tralalalala>
 <li>Put the mittens on the kittens</li>
 </ul>
 </body>
