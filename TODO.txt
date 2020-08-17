@@ -6,3 +6,7 @@ Conflicts
 Mergetool
 
 Le repo!
+
+
+Modif pour le stash
+
