@@ -32,4 +32,7 @@ Stash sans arrêt
 </ul>
 </body>
 </html>
-Run git
+
+etape 2:
+Modif juste comme ça
+Ça me permet de rajouter un commit intermédiaire
