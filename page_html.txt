@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>TODO list</title>
-<style>
+<style of Windsurf>
 h1 {
 text-align: left;
 }
@@ -24,7 +24,7 @@ border-bottom: 2px solid #eee;
 
 <Les chants corses>
 Track02
-Stash sans arrÃªt
+Stash sans arrêt
 
 
 <ul>
